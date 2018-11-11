@@ -5546,9 +5546,9 @@ class Response
 // file: src/index.php
 
 $config = new Config([
-    'username' => 'php-crud-api',
-    'password' => 'php-crud-api',
-    'database' => 'php-crud-api',
+    'username' => 'snoGo',
+    'password' => 'dancemammal1',
+    'database' => 'snogo',
 ]);
 $request = new Request();
 $api = new Api($config);
